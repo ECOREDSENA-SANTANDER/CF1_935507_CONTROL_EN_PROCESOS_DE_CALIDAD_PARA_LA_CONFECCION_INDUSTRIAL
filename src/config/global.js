@@ -146,16 +146,6 @@ export default {
             hash: 't_4_1',
           },
           {
-            numero: '4.1.1',
-            titulo: 'Normas técnicas en textiles',
-            hash: 't_4_1_1',
-          },
-          {
-            numero: '4.1.2',
-            titulo: 'Normas técnicas en confección',
-            hash: 't_4_1_2',
-          },
-          {
             numero: '4.2',
             titulo:
               'Normas de calidad internacional: ISO 9001 Versión 2015. Sistema de Gestión de la Calidad – Requisitos',
