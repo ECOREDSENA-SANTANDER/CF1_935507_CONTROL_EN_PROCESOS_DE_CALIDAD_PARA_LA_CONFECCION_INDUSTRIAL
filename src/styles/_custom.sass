@@ -42,7 +42,8 @@
       padding-top: 8% !important 
     h1, p
       color: $white  
-  
+.text-izq
+  text-align: left !important
 .banner-interno__fondo    
   background-image: url("../assets/curso/portada/banner-interno.png") !important 
 .banner-principal .tarjeta
@@ -132,6 +133,10 @@ figcaption
   border-radius: 20px
 .bg12
   background-color: #2ED19B
+.bg13
+  background-color: #104936
+.bg14
+  background-color: #F6F6F6
 .fondo01
   background-image: url('../assets/curso/Tema1/fondo3.png')
   background-position: center
@@ -169,11 +174,60 @@ figcaption
   width: 100% !important
 .slyder__btn 
   background-color: #F59E0B
-
-.tabla-a table
+.tabla-a
   width: 100% !important
-  min-width: 100% !important
-  table-layout: fixed !important
+  overflow-x: auto !important
+  -webkit-overflow-scrolling: touch
+
+  table
+    width: 100% !important
+    border-collapse: collapse
+    table-layout: fixed
+
+  th,
+  td
+    word-wrap: break-word
+    overflow-wrap: break-word
+    white-space: normal
+    vertical-align: top
+
+
+@media (max-width: 992px)
+  .tabla-a
+    table
+      table-layout: auto
+      min-width: 650px
+
+    th,
+    td
+      font-size: 14px
+      padding: 10px
+
+
+@media (max-width: 576px)
+  .tabla-a
+    table
+      min-width: 500px
+
+    th,
+    td
+      font-size: 12px
+      padding: 8px
+.tabla-ajustada
+  overflow-x: visible !important
+
+  table
+    width: 100% !important
+    min-width: unset !important
+    table-layout: auto !important
+
+@media (max-width: 991px)
+  .tabla-ajustada
+    overflow-x: auto !important
+    -webkit-overflow-scrolling: touch
+
+    table
+      min-width: 500px !important
 .circl-arrow .slyder-f__btn i
   font-size: 1.2rem
   background-color: #F59E0B
@@ -214,3 +268,8 @@ figcaption
   background-color: #C0F1E1
   h4, p 
     color: #12263F
+
+.cajon.color-acento-contenido 
+  background-color: #C0F1E1
+.cajon.color-secundario 
+  background-color: #C1C5CB

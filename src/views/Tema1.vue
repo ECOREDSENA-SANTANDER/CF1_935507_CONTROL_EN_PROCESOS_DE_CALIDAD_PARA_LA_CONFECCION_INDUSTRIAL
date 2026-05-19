@@ -165,7 +165,7 @@
           .titulo-sexto.color-secundario(data-aos='fade-right')
             h5 Tabla 1.
             span Conversión de líneas de botones.
-          .tabla-a.color-acento-contenido.mb-5
+          .tabla-a.color-acento-contenido.tabla-ajustada.mb-5
             table
               thead
                 tr
