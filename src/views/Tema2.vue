@@ -307,7 +307,7 @@
     .tarjeta--container.row.mb-4(data-aos='fade-right')
       .col-md.tarjeta.bg4.p-5.text-white
         .row.justify-content-center.mb-4
-          .col-3.col-md-5
+          .col-4.col-md-5.col-lg-3
             figure
               img(src='@/assets/curso/Tema2/1.svg', alt='Texto que describa la imagen')          
         h3.text-center Sistema directo
@@ -330,7 +330,7 @@
       
       .col-md.tarjeta.bg13.p-5.text-white
         .row.justify-content-center.mb-4
-          .col-3.col-md-5
+          .col-4.col-md-5.col-lg-3
             figure
               img(src='@/assets/curso/Tema2/2.svg', alt='Texto que describa la imagen')          
         h3.text-center Sistema inverso

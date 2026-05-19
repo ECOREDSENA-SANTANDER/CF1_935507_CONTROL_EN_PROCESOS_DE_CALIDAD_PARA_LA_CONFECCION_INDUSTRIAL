@@ -17,7 +17,7 @@
         .row.justify-content-center(titulo="Proceso de diseño y desarrollo de producto")
           .col-lg-6.mb-4.mb-md-0
             p Para realizar este proceso de forma manual se requiere papel, lápices y colores para diseñar los bocetos; pero actualmente existen programas de software especializados para apoyar el proceso, lo cual reduce o elimina el uso de estos materiales. Para desarrollar el producto se realiza una muestra física que contenga todos los materiales necesarios para entregar la prenda terminada.
-          .col-lg-5.col-md-9
+          .col-lg-5.col-md-9.col-10
             img(src='@/assets/curso/Tema1/1.png', alt='')
         
         .row.justify-content-center(titulo="Proceso de patronaje y escalado")
@@ -42,7 +42,7 @@
               li.d-flex.mb-0
                 i.fas •
                 | Pegante de papel.
-          .col-lg-5.col-md-9
+          .col-lg-5.col-md-9.col-10
             img(src='@/assets/curso/Tema1/2.png', alt='')
 
         .row.justify-content-center(titulo="Proceso de trazo y corte")
@@ -67,7 +67,7 @@
               li.d-flex.mb-0
                 i.fas •
                 | Cinta de enmascarar: se prefiere ancho de 1 pulgada.
-          .col-lg-5.col-md-9
+          .col-lg-5.col-md-9.col-10
             img(src='@/assets/curso/Tema1/3.png', alt='')
 
         .row.justify-content-center(titulo="Proceso de confección")
@@ -77,13 +77,13 @@
               li.d-flex.mb-0
                 i.fas •
                 | Agujas: su uso varía según el tipo de máquina utilizada en el proceso. Este tema se ampliará en una próxima unidad.
-          .col-lg-5.col-md-9
+          .col-lg-5.col-md-9.col-10
             img(src='@/assets/curso/Tema1/4.png', alt='')
 
         .row.justify-content-center(titulo="Proceso de acabados")
           .col-lg-6.mb-4.mb-md-0
             p Son los que se llevan a cabo en la fase de terminado de la prenda como procesos de lavandería, estampación, bordado, rebordados y control de calidad; requieren los materiales utilizados en los procesos anteriores.
-          .col-lg-5.col-md-9
+          .col-lg-5.col-md-9.col-10
             img(src='@/assets/curso/Tema1/5.png', alt='')
 
         .row.justify-content-center(titulo="Proceso de empaque y embalaje")
@@ -102,7 +102,7 @@
               li.d-flex.mb-0
                 i.fas •
                 | Cajas.
-          .col-lg-5.col-md-9
+          .col-lg-5.col-md-9.col-10
             img(src='@/assets/curso/Tema1/6.png', alt='')
       separador
       #t_1_2.titulo-segundo.mb-5(data-aos="zoom-in-left")
