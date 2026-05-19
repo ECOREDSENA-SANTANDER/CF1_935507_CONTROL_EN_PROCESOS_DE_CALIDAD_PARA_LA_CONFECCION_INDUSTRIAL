@@ -91,46 +91,36 @@ export default {
             hash: 't_3_1',
           },
           {
-            numero: '3.2.1',
-            titulo: 'Maquinaria básica',
-            hash: 't_3_2_1',
-          },
-          {
-            numero: '3.2.2',
-            titulo: 'Maquinaria especializada',
-            hash: 't_3_2_2',
+            numero: '3.2',
+            titulo: 'Graduación de tensiones de los hilos',
+            hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Nivel de arrastre: ajuste de maquinaria',
+            titulo: 'Maquinaria básica',
             hash: 't_3_3',
           },
           {
-            numero: '3.3.1',
-            titulo: 'Tipos de ajustes de maquinaria según línea de producto',
-            hash: 't_3_3_1',
-          },
-          {
             numero: '3.4',
-            titulo: 'Calibración de puntada',
+            titulo: 'Nivel de arrastre: ajuste de maquinaria',
             hash: 't_3_4',
           },
           {
-            numero: '3.4.1',
-            titulo: 'Maquinaria básica',
-            hash: 't_3_4_1',
-          },
-          {
             numero: '3.5',
-            titulo:
-              'Puesta a punto de la maquinaría y prueba de costura según operación de confección',
+            titulo: 'Calibración de puntada',
             hash: 't_3_5',
           },
           {
             numero: '3.6',
             titulo:
-              'Manejo y operaciones básicas de máquinas de confección industrial',
+              'Puesta a punto de la maquinaría y prueba de costura según operación de confección',
             hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo:
+              'Manejo y operaciones básicas de máquinas de confección industrial',
+            hash: 't_3_7',
           },
         ],
       },

@@ -243,7 +243,23 @@
             img.w-card-icon(src="@/assets/curso/Tema1/subt.svg")
             h3.bg2.py-2.w-card-text Maquinaria básica
 
-
+    .fondo02.p-5.mb-4(data-aos="zoom-in-left")
+        SlyderE(indicadores="derecha").fondo-interno.p-5
+          .row.justify-content-center
+            .col-lg-4.mb-4.mb-md-0
+              h5 Máquina plana
+              p Para calibrar la puntada de la máquina plana se debe ajustar moviendo el mecanismo del dial o botón regulador de puntada, el cual se encuentra ubicado en el lado derecho del cabezote de la máquina y tiene unos números, 1 al 5 (máquinas ajuste liviano y semipesado) si el dial tiene 6, la máquina es de ajuste pesado. Entre más se mueva el dial aumentando el número la puntada es más larga y por lo tanto se tiene menos P.P.P se utilizan puntadas de 8 o 6 P.P.P para puntadas de pespuntes. En el caso contrario se disminuye el dial, obteniéndose más puntadas por pulgada en el caso de costuras internas 12 P.P.P.
+            .col-lg-6.col-md-8
+              figure
+                img(src='@/assets/curso/Tema3/1.png', alt='Texto que describa la imagen')
+      
+          .row.justify-content-center
+            .col-lg-4.mb-4.mb-md-0
+              h5 Máquina fileteadora y recubridora
+              p Se calibra la puntada activando un botón el cual se encuentra en la parte frontal del cabezote, que desengrana el mecanismo para que al mover el volante se pueda cambiar el largo de puntada, una vez se cambia el largo de puntada se deja de oprimir el volante. En el caso de sobrehilado y según lo especificado en la ficha técnica del producto, en panty o prendas deportivas como leggins por ejemplo se utilizan 14 a 16 P.P.P. para prendas en denim se utilizan sobrehilados entre 9 y 6 P.P.P. En la recubridora una operación como los dobladillos de camiseta se manejan 10 a 8 P.P.P.
+            .col-lg-6.col-md-8
+              figure
+                img(src='@/assets/curso/Tema3/2.png', alt='Texto que describa la imagen')
     separador
     #t_3_6.titulo-segundo.mb-5(data-aos="zoom-in-left")
       h2 3.6  Puesta a punto de la maquinaría y prueba de costura según operación de confección
