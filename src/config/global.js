@@ -431,7 +431,7 @@ export default {
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñadora instruccional',
           centro: 'Regional Distrito Capital',
         },
       ],
@@ -467,7 +467,7 @@ export default {
         {
           nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro Comercio y Servicios - Regional Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
