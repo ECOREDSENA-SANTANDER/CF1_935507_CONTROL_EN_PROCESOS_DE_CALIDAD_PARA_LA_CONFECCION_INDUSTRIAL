@@ -112,7 +112,7 @@
           .d-flex.align-items-center
             img.w-card-icon(src="@/assets/curso/Tema1/subt.svg")
             h3.bg2.py-2.w-card-text Máquina recubridora
-    p Teniendo en cuenta las costuras generadas se ajustan lo tensores que corresponden a cada hilo según el enhebrado.
+    p Teniendo en cuenta las costuras generadas se ajustan los tensores que corresponden a cada hilo según el enhebrado.
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
@@ -191,7 +191,7 @@
             img.w-card-icon(src="@/assets/curso/Tema1/subt.svg")
             h3.bg2.py-2.w-card-text Tipos de ajustes de maquinaria según línea de producto
 
-    p El nivel de arrastre relaciona el contacto de la pieza y los mecanismos de arrastre de la máquina, los cuales dependen del tipo de tejido y origen del textil que se esté utilizando, además de la operación a realizar.
+    
 
     .row
       .col-sm-6.col-lg-4.mb-4.mb-lg-0.d-flex
@@ -229,12 +229,12 @@
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ekwF948qscg?si=x7tKBv9AJS6XINsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Operaciones basicas para el manejo en maquina plana de una aguja Paso 1.
+      figcaption Video: Operaciones básicas para el manejo en maquinaria plana de una aguja Paso 1.
 
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Z9ZCp_foHH4?si=Fw-9wJ4BH_RV4ALh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Operaciones basicas para el manejo en maquina plana de una aguja Paso 2.
+      figcaption Video: Operaciones básicas para el manejo en maquinaria plana de una aguja Paso 2.
 
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -262,7 +262,7 @@
                 img(src='@/assets/curso/Tema3/2.png', alt='Texto que describa la imagen')
     separador
     #t_3_6.titulo-segundo.mb-5(data-aos="zoom-in-left")
-      h2 3.6  Puesta a punto de la maquinaría y prueba de costura según operación de confección
+      h2 3.6  Puesta a punto de la maquinaria y prueba de costura según operación de confección
 
     figure.mb-4
       .video

@@ -15,7 +15,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/Tema2/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los textiles se clasifican por su composición, teniendo en cuenta que su unidad es la fibra textil, de esta resultan los hilados, los tejidos y mallas, cuerdas y otras manufacturas semejantes. Las fibras pueden ser de origen natural o artificial. También se diferencian por sus propiedades físicas, químicas y geométricas. Existen también microfibras y nano fibras las cuales son mucho más finas.
+        p.mb-0 Los textiles se clasifican por su composición, teniendo en cuenta que su unidad es la fibra textil, de esta resultan los hilados, los tejidos y mallas, cuerdas y otras manufacturas semejantes. Las fibras pueden ser de origen natural o artificial. También se diferencian por sus propiedades físicas, químicas y geométricas. Existen también microfibras y nanofibras las cuales son mucho más finas.
           br
           br
           | Se debe conocer cuáles son las propiedades de los textiles para conocer su aplicación en el vestuario. Varias de esas propiedades las asociamos a los sentidos como percepción al tacto, aspecto visual, caída, capacidad de protección al clima, cuidado y conservación, confort, durabilidad y mantenimiento de la prenda.
@@ -98,7 +98,7 @@
                       p.mb-0 Poliéster
                     li.d-flex
                       i.fas •
-                      p.mb-0 Poliuretano segmentado – elastano (spandex)
+                      p.mb-0 Poliuretano segmentado – elastano (#[em spandex])
                     li.d-flex
                       i.fas •
                       p.mb-0 Derivados de polivinilo - acrílicas
@@ -190,7 +190,7 @@
                   p.mb-0 Lana con poliéster: hace que no se arrugue y facilita los procesos de plisado.
                 li.d-flex
                   i.fas •
-                  p.mb-0 Poliamida con poliuretano y también con lana. Seda con cachemir: es la pashmina, se confunde al reemplazar la viscosa que la hace más económica.
+                  p.mb-0 Poliamida con poliuretano y también con lana.
             .col-lg-6.col-md-8
               figure
                 img(src='@/assets/curso/Tema2/03.png', alt='')
@@ -203,7 +203,7 @@
                   p.mb-0 Seda con cachemir: es la pashmina, se confunde al reemplazar la viscosa que la hace más económica.
                 li.d-flex
                   i.fas •
-                  p.mb-0 Cáñamo y seda: telas tejidas en jacquar como damasco.
+                  p.mb-0 Cáñamo y seda: telas tejidas en jacquard como damasco.
                 li.d-flex
                   i.fas •
                   p.mb-0 Acetato con poliamida: mejora al tacto y es más resistente.
@@ -241,7 +241,7 @@
             caption Fuente: Sena, 2020
             thead
               tr
-                th.text-center.bg6.text-white(colspan="2") Hilados (spun)
+                th.text-center.bg6.text-white(colspan="2") Hilados (#[em spun])
                 th.text-center.bg6.text-white Filamentos
                 th.text-center.bg6.text-white Otros
             tbody
@@ -278,7 +278,7 @@
                       p.mb-0 Trenzados
                     li.d-flex
                       i.fas •
-                      p.mb-0 Coreply - corespun
+                      p.mb-0 Coreply - #[em corespun]
                     li.d-flex
                       i.fas •
                       p.mb-0 Fantasía
@@ -476,7 +476,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')
       .col-lg-8
-        p En tejidos de punto se clasifican el jersey, el piquet, rib y franelas que son los más utilizados para prendas deportivas.
+        p En tejidos de punto se clasifican el #[em jersey], el #[em piquet], #[em rib] y franelas que son los más utilizados para prendas deportivas.
         p De acuerdo con Alonso Felipe, los hilos de urdimbre y de trama se reconocen por las siguientes características:
         ul.lista-ul.lista-ul--separador
           li
@@ -514,7 +514,7 @@
           SlyderA(tipo="b")
             .row.justify-content-center
               .col-lg-5.mb-4.mb-md-0
-                h4 Tejio en telar
+                h4 Tejido en telar
                 p Entretejido de dos o más hilos de forma perpendicular. La mayoría de los tejidos se obtienen a través de esta técnica. Las telas son rígidas, sin elongación en cualquiera de los dos sentidos.
                 p Un telar elemental actualmente utilizado está compuesto por dos soportes, uno para los hilos de urdimbre y el otro sostiene la tela conformada al pasar el hilo de trama.
               .col-lg-5.col-md-8
@@ -542,7 +542,7 @@
                 ul.lista-ul
                   li.d-flex
                     i.fas •
-                    p.mb-0 #[b Afelpado:] sobre la base de la tela mediante agujas se forman rizos que pueden rasurarse. En este caso se hablan de panas, terciopelos y telas afelpadas.
+                    p.mb-0 #[b Afelpado:] sobre la base de la tela mediante agujas se forman rizos que pueden rasurarse. En este caso se habla de panas, terciopelos y telas afelpadas.
                   li.d-flex
                     i.fas •
                     p.mb-0 #[b Telas adheridas o laminadas:] unión de telas por medio de pegantes o termofijado, produciendo una tela de bajo costo.
@@ -622,7 +622,7 @@
               tbody
                 tr
                   td Comodidad y formación de arrugas
-                  td Tela elástica, adaptable al movimiento y figura del cuerpo. Se recupera fácil de la torsión y no
+                  td Tela elástica, adaptable al movimiento y figura del cuerpo. Se recupera fácil de la torsión y no forma arrugas.
                   td No tiene elongación. Dependiendo del tejido puede o no formar arrugas.
                 tr
                   td Capacidad para cubrir
@@ -691,7 +691,7 @@
 
               tr
                 td Bambú
-                td Toallas, calcetería, ropa interior, de baño y para bebé, en mezclas con algodón, spandex.
+                td Toallas, calcetería, ropa interior, de baño y para bebé, en mezclas con algodón, #[em spandex].
 
               tr
                 td Soja
@@ -726,7 +726,7 @@
                 td Todo tipo de prendas como camisas, pantalón, camisetas, tapicería, cortinas, también en mezclas con algodón, viscosa, lino, lana y seda.
 
               tr
-                td Spandex - Lycra
+                td #[em spandex] - Lycra
                 td Prendas deportivas e interiores.
 
               tr
@@ -770,27 +770,27 @@
                 th.bg6.text-white Prendas
             tbody
               tr
-                td Entre 40 y 100 Sgr/m^2S
+                td Entre 40 y 100 g/m^2
                 td Ultralán, bonlam o tejido quirúrgico.
                 td Cofias, batas, overoles, escafandras, polainas, bolsas.
 
               tr
-                td Entre 135 y 180 Sgr/m^2S
+                td Entre 135 y 180 g/m^2
                 td Algodón o polialgodón.
                 td Camisetas, pijamas.
 
               tr
-                td Entre 180 y 220 Sgr/m^2S
+                td Entre 180 y 220 g/m^2
                 td Telas piqué Lacoste.
                 td Camisetas tipo polo.
 
               tr
-                td Entre 110 y 225 Sgr/m^2S
+                td Entre 110 y 225 g/m^2
                 td Telas antifluido.
                 td Chalecos, chaquetas, pantalón de sudaderas, pantalonetas.
 
               tr
-                td Entre 130 y 150 Sgr/m^2S
+                td Entre 130 y 150 g/m^2
                 td Telas livianas en seda, poliéster.
                 td Blusas, camisas.
 
@@ -800,7 +800,7 @@
                 td Jeans, overoles, chalecos, chaquetas, faldas, short.
 
               tr
-                td Entre 280 y 340 Sgr/m^2S
+                td Entre 280 y 340 g/m^2
                 td Telas dril, gabardinas.
                 td Prendas de trabajo como camisas, pantalones y overoles.
 

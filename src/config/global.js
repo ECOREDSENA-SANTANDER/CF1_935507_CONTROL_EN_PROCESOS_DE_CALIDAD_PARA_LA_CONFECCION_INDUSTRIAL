@@ -482,9 +482,9 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro Comercio y Servicios - Regional Tolima',
         },
       ],
     },

@@ -16,7 +16,7 @@
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-4(data-aos="zoom-in-left")
         .row.justify-content-center(titulo="Proceso de diseño y desarrollo de producto")
           .col-lg-6.mb-4.mb-md-0
-            p Para realizar este proceso de forma manual se requiere papel, lápices y colores para diseñar los bocetos; pero actualmente existen programas de software especializados para apoyar el proceso, lo cual reduce o elimina el uso de estos materiales. Para desarrollar el producto se realiza una muestra física que contenga todos los materiales necesarios para entregar la prenda terminada.
+            p Para realizar este proceso de forma manual se requiere papel, lápices y colores para diseñar los bocetos; pero actualmente existen programas de #[em software] especializados para apoyar el proceso, lo cual reduce o elimina el uso de estos materiales. Para desarrollar el producto se realiza una muestra física que contenga todos los materiales necesarios para entregar la prenda terminada.
           .col-lg-5.col-md-9.col-10
             img(src='@/assets/curso/Tema1/1.png', alt='')
         
@@ -57,7 +57,7 @@
                 | Papel kraft: ancho de 1,60 mts y gramaje entre 60 y 90 grs.
               li.d-flex.mb-0
                 i.fas •
-                | Papel bond: según ancho del plotter; gramaje de 75 grs.
+                | Papel bond: según ancho del #[em plotter]; gramaje de 75 grs.
               li.d-flex.mb-0
                 i.fas •
                 | Lápiz de color: color blanco o colores contrastantes.

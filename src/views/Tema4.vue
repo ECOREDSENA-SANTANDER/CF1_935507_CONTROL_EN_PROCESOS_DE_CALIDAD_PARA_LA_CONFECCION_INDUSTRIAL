@@ -15,11 +15,11 @@
         :style="{'background-image': `url(${require('@/assets/curso/Tema4/bg01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La Norma técnica es la descripción documentada de los procesos estandarizados, resultado de un estudio y un consenso generalizado, por un organismo reconocido y especializado. A nivel nacional el ICONTEC es el organismo que realiza las funciones de normalizar las técnicas de calidad, el comité 062 está dedicado en las normas de confecciones y textiles.
+        p.mb-0 La norma técnica es un documento que establece requisitos, especificaciones, directrices o características que permiten asegurar la calidad, seguridad y eficiencia de productos, procesos y servicios. Estas normas son el resultado de estudios técnicos y del consenso entre diferentes actores de un sector productivo, y son elaboradas por organismos reconocidos de normalización.
           br
           br
-          | A la fecha se encuentran en uso alrededor de 63 Normas Técnicas Colombianas (NTC), especializadas en el tema de textiles y confecciones. Estas normas otorgan certificados al cumplir con lo descrito. Varias de ellas tienen equivalencia en la normatividad internacional como el caso de las normas generadas por el Organismo Internacional de Estandarización (ISO).
-
+          | En Colombia, el Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) es el organismo encargado de desarrollar y actualizar las Normas Técnicas Colombianas (NTC). En el sector textil y de confecciones, esta labor es liderada por el Comité Técnico 062, responsable de la normalización de aspectos relacionados con fibras, hilos, telas, confecciones, etiquetado, métodos de ensayo, requisitos de calidad y demás procesos asociados a la industria.
+    p Actualmente, el catálogo normativo para el sector textil y de confecciones incluye un amplio conjunto de documentos técnicos que establecen criterios para el control de calidad, la evaluación de materiales, el desempeño de los productos, los requisitos de rotulado y las buenas prácticas de fabricación. Muchas de estas normas se encuentran armonizadas con estándares internacionales, facilitando la competitividad, la calidad y el acceso a mercados nacionales e internacionales.
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center
