@@ -267,118 +267,110 @@ export default {
   referencias: [
     {
       referencia:
-        'Alonso Felipe, J. (2015). Manual Control de calidad en productos textiles y afines [PDF] (p. 81).',
-      link: 'http://oa.upm.es/38763/',
+        'Alonso Felipe, J. (2015). Manual control de calidad en productos textiles y afines (p. 81).',
+      link: '',
     },
     {
       referencia: 'Arcoline. (2020). Arcoline portafolio.',
-      link: 'https://arcoline.com/portafolio/',
+      link: '',
     },
     {
-      referencia:
-        'Celestecielo, G. (2012, junio). Montar cremallera El Rincón De celestecielo.',
-      link:
-        'https://elrincondecelestecielo.blogspot.com/2012/06/coser-cierres-o-cremalleras-de-forma.html',
+      referencia: 'Celestecielo, G. (2012, junio). Montar cremallera.',
+      link: '',
     },
     {
       referencia: 'CI Estrada Velásquez CIA S.A.S. (2020). Insumos de moda.',
-      link: 'https://www.estradavelasquez.com/index.php/insumos-moda',
+      link: '',
     },
     {
-      referencia: 'COATS Group. (2020). Productos. COATS.',
-      link: 'https://www.coats.com/',
+      referencia: 'COATS Group. (2020). Productos.',
+      link: '',
     },
     {
-      referencia: 'Fabricato. (2020). Fabricato nuestros productos.',
-      link: 'https://www.fabricato.com/es/nuestros-productos/vestuario',
+      referencia: 'Fabricato. (2020). Nuestros productos.',
+      link: '',
     },
     {
-      referencia: 'Gavilán, B. (2015, mayo 20). Tejido de punto. SlideShare.',
-      link: 'https://www.slideshare.net/bladimirgavilan/tejido-punto',
+      referencia: 'Gavilán, B. (2015, 20 de mayo). Tejido de punto.',
+      link: '',
     },
     {
       referencia:
         'IKONET. (2020). Ligamentos textiles básicos. Diccionario visual.',
-      link:
-        'http://www.ikonet.com/es/diccionariovisual/arte-y-arquitectura/oficios/tejido/ligamentos-textiles-basicos.php',
+      link: '',
     },
     {
       referencia:
-        'ISO. (s.f.) ISO 9001: 2015 (es) Sistemas de Gestión de Calidad.',
-      link: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
+        'ISO. (s.f.). ISO 9001:2015. Sistemas de gestión de la calidad.',
+      link: '',
     },
     {
-      referencia: 'Kette_und_Schuß. (2009, agosto 27). Trama y urdimbre.',
-      link: 'https://commons.wikimedia.org/wiki/User:Ryj',
+      referencia: 'Kette_und_Schuß. (2009, 27 de agosto). Trama y urdimbre.',
+      link: '',
     },
     {
-      referencia: 'Lafayette. (2020). Lafayette inspiración que transforma.',
-      link: 'https://www.lafayette.com/',
-    },
-    {
-      referencia:
-        'ManualsLib. Enhebrado de la máquina - Manuales máquina de coser Brother T-8422A (p. 28).',
-      link:
-        'https://www.manualslib.com/manual/442249/Brother-T-8422a.html?page=28#manual',
+      referencia: 'Lafayette. (2020). Inspiración que transforma.',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Enhebrado de la máquina - Manuales máquina de coser Brother ZM-851A (p. 47).',
-      link:
-        'https://www.manualslib.com/manual/442708/Brother-Zm-851a.html?page=47#manual',
+        'ManualsLib. (s.f.). Enhebrado de la máquina. Manual máquina de coser Brother T-8422A (p. 28).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Enhebrado de la máquina - Manual de instrucciones JUKI MO-6704D (p. 40).',
-      link:
-        'https://www.manualslib.com/manual/559355/Juki-Mo-6704d.html?page=40#manual',
+        'ManualsLib. (s.f.). Enhebrado de la máquina. Manual máquina de coser Brother ZM-851A (p. 47).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Enhebrado de la máquina – Manual de instrucciones Siruba L818F (p. 18).',
-      link:
-        'https://www.manualslib.com/manual/1246266/Siruba-L818f.html?page=18#manual',
+        'ManualsLib. (s.f.). Enhebrado de la máquina. Manual de instrucciones JUKI MO-6704D (p. 40).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Enhebrado de la máquina - Manual técnico de la serie Pegasus W500 (p. 9).',
-      link:
-        'https://www.manualslib.com/manual/1227894/Pegasus-W500-Series.html?page=9#manual',
+        'ManualsLib. (s.f.). Enhebrado de la máquina. Manual de instrucciones Siruba L818F (p. 18).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Preparativos antes de coser; Colocación de la aguja; Enhebrado del hilo superior - Brother BE-438D Manual de Instrucción (p. 30).',
-      link:
-        'https://www.manualslib.com/manual/452334/Brother-Be-438d.html?page=30#manual',
+        'ManualsLib. (s.f.). Enhebrado de la máquina. Manual técnico serie Pegasus W500 (p. 9).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Enhebrado del hilo superior - Brother HE-800B Manual de instrucciones (p. 31).',
-      link:
-        'https://www.manualslib.com/manual/483228/Brother-He-800b.html?page=31#manual',
+        'ManualsLib. (s.f.). Preparativos antes de coser, colocación de la aguja y enhebrado del hilo superior. Brother BE-438D. Manual de instrucción (p. 30).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Preparación antes de coser; Instalación de la aguja; Enhebrado del hilo superior - Brother KE-430F Manual de instrucciones (p. 35).',
-      link:
-        'https://www.manualslib.com/manual/440963/Brother-Ke-430f.html?page=35#manual',
+        'ManualsLib. (s.f.). Enhebrado del hilo superior. Brother HE-800B. Manual de instrucciones (p. 31).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Enhebrado del hilo superior - Brother RH-9820 Manual de instrucciones.',
-      link:
-        'https://www.manualslib.com/manual/814434/Brother-Rh-9820.html?page=40#manual',
+        'ManualsLib. (s.f.). Preparación antes de coser, instalación de la aguja y enhebrado del hilo superior. Brother KE-430F. Manual de instrucciones (p. 35).',
+      link: '',
     },
     {
       referencia:
-        'ManualsLib. Enhebrando los hilos inferiores; enhebrado los hilos superiores - Manual de instrucciones Brother DA-9280 (p. 19).',
-      link:
-        'https://www.manualslib.com/manual/482480/Brother-Da-9280.html?page=19#manual',
+        'ManualsLib. (s.f.). Enhebrado del hilo superior. Brother RH-9820. Manual de instrucciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'ManualsLib. (s.f.). Enhebrando los hilos inferiores y superiores. Manual de instrucciones Brother DA-9280 (p. 19).',
+      link: '',
     },
     {
       referencia:
         'Planeta Moda. (2018). Tejeduría. Tejido de punto y de calada.',
-      link: 'https://youtu.be/JtKDv_xH9VI',
+      link: '',
+    },
+    {
+      referencia:
+        'S. L. Innovación y Cualificación. (2018). Técnicas básicas de corte, ensamblado y acabado de productos textiles (2.ª ed.). IC Editorial.',
+      link: '',
     },
     {
       referencia:
@@ -391,34 +383,25 @@ export default {
       link: '',
     },
     {
-      referencia: 'SENA. (2012). La máquina de coser (pp. 6,14).',
-      link:
-        'https://repositorio.sena.edu.co/sitios/modisteria_conocimientos_basicos/hilos_maquina/pdf/maquina_coser.pdf',
+      referencia: 'SENA. (2012). La máquina de coser (pp. 6, 14).',
+      link: '',
     },
     {
       referencia: 'SENA. (2020). Alistamiento de máquina plana.',
-      link: 'https://www.youtube.com/watch?v=YntKFwKopvQ',
-    },
-    {
-      referencia:
-        'S. L. Innovación y Cualificación. (2018). Técnicas básicas de corte, ensamblado y acabado de productos textiles (2. ed.). IC Editorial.',
-      link:
-        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=5885418',
+      link: '',
     },
     {
       referencia: 'Sutex. (2020). Sutex textiles.',
-      link:
-        'https://www.sutex.com/?gclid=EAIaIQobChMIyqDz2_-b6wIVGP3jBx2q8Ad2EAAYASAAEgKmJ_D_BwE',
+      link: '',
     },
     {
-      referencia: 'Telas Patprimo. (2020). Telas PatPrimo Nuestras Telas.',
-      link: 'http://www.telaspatprimo.com/inicio/nuestras-telas/',
+      referencia: 'Telas PatPrimo. (2020). Nuestras telas.',
+      link: '',
     },
     {
       referencia:
         'Virtualpro. (2002). Procesos industriales, manufactura y producción.',
-      link:
-        'https://www-virtualpro-co.bdigital.sena.edu.co/download/fibras-textiles.pdf',
+      link: '',
     },
   ],
   creditos: [
