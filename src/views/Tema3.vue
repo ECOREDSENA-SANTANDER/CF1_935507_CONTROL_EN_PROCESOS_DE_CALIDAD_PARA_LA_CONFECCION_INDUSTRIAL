@@ -34,27 +34,27 @@
                 p El tensor de hilo es un mecanismo encargado de hacer la oposición necesaria al paso del hilo, ya sea a un hilo superior o inferior, la presión ejercida por los discos tensores debe ser la correcta conforme a la necesidad de generar una puntada pareja.
               .col-lg-5.col-md-8
                 .titulo-sexto.color-secundario(data-aos='fade-right')
-                  h5 Figura 11.
+                  h5 Figura 10.
                   span Formación de la puntada a máquina
-                img(src='@/assets/curso/Tema3/fig11.svg', alt='')
+                img(src='@/assets/curso/Tema3/fig11.svg', alt='Formación de la puntada a máquina. Ilustración esquemática del proceso de formación de la puntada en una máquina de coser. Se observan varias capas de tela unidas mediante el entrelazamiento del hilo superior, guiado por la aguja, y el hilo inferior proveniente de la bobina, formando una secuencia uniforme de puntadas a lo largo del material.')
 
             .row.justify-content-center.align-items-center
               .col-lg-5.mb-4.mb-md-0
                 p Si se gira el botón tensor en dirección derecha se aumenta la tensión del hilo y en dirección izquierda se disminuye la tensión del hilo enhebrado.
               .col-lg-5.col-md-8
                 .titulo-sexto.color-secundario(data-aos='fade-right')
-                  h5 Figura 12.
+                  h5 Figura 11.
                   span Tensores de hilo de máquina recubridora
-                img(src='@/assets/curso/Tema3/fig12.png', alt='')
+                img(src='@/assets/curso/Tema3/fig12.png', alt='Tensores de hilo de máquina recubridora. Fotografía de los tensores de hilo de una máquina recubridora. Se observan varios dispositivos reguladores alineados horizontalmente, por donde pasa el hilo antes de llegar a las agujas, permitiendo ajustar la tensión necesaria para obtener puntadas uniformes y de calidad durante la costura.')
 
             .row.justify-content-center.align-items-center
               .col-lg-5.mb-4.mb-md-0
                 p Una vez enhebrados los hilos adecuados en cada una de las máquinas se debe revisar la tensión del hilo de la aguja; tenga en cuenta la densidad del material y la operación a desarrollar; las variables anteriores se relacionan directamente con el óptimo ajuste de tensiones.
               .col-lg-5.col-md-8
                 .titulo-sexto.color-secundario(data-aos='fade-right')
-                  h5 Figura 13.
+                  h5 Figura 12.
                   span Tensores de hilo de máquina fileteadora
-                img(src='@/assets/curso/Tema3/fig13.png', alt='')
+                img(src='@/assets/curso/Tema3/fig13.png', alt='Tensores de hilo de máquina fileteadora. Fotografía de los tensores de hilo de una máquina fileteadora. Se observan cuatro perillas de ajuste alineadas horizontalmente en la parte frontal de la máquina, utilizadas para regular la tensión de los hilos durante el proceso de costura.')
 
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-md-0
@@ -64,9 +64,9 @@
                 p Tensión correcta: el hilo de la aguja y de la bobina tienen una tensión adecuada de forma que el entrelazamiento de los hilos queda en la mitad de la tela.
               .col-lg-4.col-md-8
                 .titulo-sexto.color-secundario(data-aos='fade-right')
-                  h5 Figura 14.
+                  h5 Figura 13.
                   span Tensiones de puntada
-                img(src='@/assets/curso/Tema3/fig14.svg', alt='')
+                img(src='@/assets/curso/Tema3/fig14.svg', alt='Tensiones de puntada. Ilustración comparativa de tres niveles de tensión en una puntada: mucha tensión, tensión normal y poca tensión. El gráfico muestra cómo el entrelazamiento de los hilos se desplaza hacia la parte superior, el centro o la parte inferior de la tela según el ajuste de la tensión.')
 
 
     separador
@@ -96,7 +96,7 @@
     .row.justify-content-center.align-items-center.mb-3.bg11.p-5
       .col-lg-12
         .titulo-sexto.color-secundario(data-aos='fade-right')
-          h5 Figura 15.
+          h5 Figura 14.
           span Costura máquina plana.
         img(src="@/assets/curso/Tema3/fig15.png", alt="Una fotografía en primer plano muestra el detalle de una Costura máquina plana sobre una tela de jean azul. Se observa una puntada doble y paralela realizada con hilo de color naranja, lo que permite a la persona interesada apreciar el acabado técnico y estético de este tipo de unión textil en una prenda real.")
 
