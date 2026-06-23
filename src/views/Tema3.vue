@@ -19,7 +19,7 @@
             .col.mb-3.mb-sm-0
               h4.mb-1.text-white Enhebrados de maquinaria de confección industrial
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Procesamiento/935500/Contenido/OVA/AP1/CALIDAD_CONFECCION_CF1/media/documentos/Enhebrados_de_maquinaria_de_confeccion.pdf" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Enhebrados_de_maquinaria_de_confeccion.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     separador
@@ -256,7 +256,7 @@
           .row.justify-content-center
             .col-lg-4.mb-4.mb-md-0
               h5 Máquina fileteadora y recubridora
-              p Se calibra la puntada activando un botón el cual se encuentra en la parte frontal del cabezote, que desengrana el mecanismo para que al mover el volante se pueda cambiar el largo de puntada, una vez se cambia el largo de puntada se deja de oprimir el volante. En el caso de sobrehilado y según lo especificado en la ficha técnica del producto, en panty o prendas deportivas como leggins por ejemplo se utilizan 14 a 16 P.P.P. para prendas en denim se utilizan sobrehilados entre 9 y 6 P.P.P. En la recubridora una operación como los dobladillos de camiseta se manejan 10 a 8 P.P.P.
+              p Se calibra la puntada activando un botón el cual se encuentra en la parte frontal del cabezote, que desengrana el mecanismo para que al mover el volante se pueda cambiar el largo de puntada, una vez se cambia el largo de puntada se deja de oprimir el volante. En el caso de sobrehilado y según lo especificado en la ficha técnica del producto, en panty o prendas deportivas como #[em leggins] por ejemplo se utilizan 14 a 16 P.P.P. para prendas en denim se utilizan sobrehilados entre 9 y 6 P.P.P. En la recubridora una operación como los dobladillos de camiseta se manejan 10 a 8 P.P.P.
             .col-lg-6.col-md-8
               figure
                 img(src='@/assets/curso/Tema3/2.png', alt='Texto que describa la imagen')
@@ -276,7 +276,7 @@
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ekwF948qscg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Operaciones basicas para el manejo en maquina plana de una aguja Paso 1.
+      figcaption Video: Operaciones básicas para el manejo en máquina plana de una aguja Paso 1.
 
 
 

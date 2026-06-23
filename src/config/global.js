@@ -113,7 +113,7 @@ export default {
           {
             numero: '3.6',
             titulo:
-              'Puesta a punto de la maquinaría y prueba de costura según operación de confección',
+              'Puesta a punto de la maquinaria y prueba de costura según operación de confección',
             hash: 't_3_6',
           },
           {

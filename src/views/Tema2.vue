@@ -40,7 +40,7 @@
       
       .col-md.tarjeta.bg12.p-5(data-aos='fade-right')
         .row.justify-content-center.mb-4
-          .col-6.col-md-3
+          .col-6.col-md-3.col-lg-6
             figure
               img(src='@/assets/curso/Tema2/3.png', alt='Texto que describa la imagen')          
         h2.text-center Propiedades químicas
@@ -394,7 +394,7 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos='fade-right')
       .col-lg-10
         img(src='@/assets/curso/Tema2/fig3.svg', alt='Una ilustración técnica de una etiqueta circular de hilo marca COATS. Se identifican mediante líneas informativas los datos relevantes para la persona interesada, tales como el nombre de la marca, el país de procedencia, el grosor, el metraje, la composición de la fibra y los códigos de referencia y color.')
-        figcaption Fuente. Marca registrada COATS (s.f.).
+        figcaption Fuente: Marca registrada COATS (s.f.).
 
     .cajon.color-acento-contenido.p-4.mb-4(data-aos='fade-right')
       h5 Para profundizar…
@@ -638,7 +638,7 @@
                   td Telas de muy delgadas a muy pesadas.
                 tr
                   td Economía
-                  td Los diseños se pueden adaptar en las máquinas con los debidos cambios. La velocidad de producción no depende del ancho de
+                  td Los diseños se pueden adaptar en las máquinas con los debidos cambios. La velocidad de producción no depende del ancho de la tela.
                   td La maquinaria es menos adaptable a los cambios de la moda. Los telares más anchos son más lentos.
   
       .col-lg-3.d-flex.mb-5
@@ -726,7 +726,7 @@
                 td Todo tipo de prendas como camisas, pantalón, camisetas, tapicería, cortinas, también en mezclas con algodón, viscosa, lino, lana y seda.
 
               tr
-                td #[em spandex] - Lycra
+                td #[em Spandex] - Lycra
                 td Prendas deportivas e interiores.
 
               tr
@@ -770,27 +770,27 @@
                 th.bg6.text-white Prendas
             tbody
               tr
-                td Entre 40 y 100 g/m^2
+                td Entre 40 y 100 g/m<sup>2</sup>
                 td Ultralán, bonlam o tejido quirúrgico.
                 td Cofias, batas, overoles, escafandras, polainas, bolsas.
 
               tr
-                td Entre 135 y 180 g/m^2
+                td Entre 135 y 180 g/m<sup>2</sup>
                 td Algodón o polialgodón.
                 td Camisetas, pijamas.
 
               tr
-                td Entre 180 y 220 g/m^2
+                td Entre 180 y 220 g/m<sup>2</sup>
                 td Telas piqué Lacoste.
                 td Camisetas tipo polo.
 
               tr
-                td Entre 110 y 225 g/m^2
+                td Entre 110 y 225 g/m<sup>2</sup>
                 td Telas antifluido.
                 td Chalecos, chaquetas, pantalón de sudaderas, pantalonetas.
 
               tr
-                td Entre 130 y 150 g/m^2
+                td Entre 130 y 150 g/m<sup>2</sup>
                 td Telas livianas en seda, poliéster.
                 td Blusas, camisas.
 
@@ -800,7 +800,7 @@
                 td Jeans, overoles, chalecos, chaquetas, faldas, short.
 
               tr
-                td Entre 280 y 340 g/m^2
+                td Entre 280 y 340 g/m<sup>2</sup>
                 td Telas dril, gabardinas.
                 td Prendas de trabajo como camisas, pantalones y overoles.
 

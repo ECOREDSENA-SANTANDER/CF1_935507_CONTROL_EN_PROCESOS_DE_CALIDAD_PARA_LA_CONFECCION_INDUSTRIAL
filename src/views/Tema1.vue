@@ -57,7 +57,10 @@
                 | Papel kraft: ancho de 1,60 mts y gramaje entre 60 y 90 grs.
               li.d-flex.mb-0
                 i.fas •
-                | Papel bond: según ancho del #[em plotter]; gramaje de 75 grs.
+                | Papel bond: según ancho del
+                span
+                i plotter
+                | ; gramaje de 75 grs.
               li.d-flex.mb-0
                 i.fas •
                 | Lápiz de color: color blanco o colores contrastantes.
