@@ -396,10 +396,7 @@
         img(src='@/assets/curso/Tema2/fig3.svg', alt='Una ilustración técnica de una etiqueta circular de hilo marca COATS. Se identifican mediante líneas informativas los datos relevantes para la persona interesada, tales como el nombre de la marca, el país de procedencia, el grosor, el metraje, la composición de la fibra y los códigos de referencia y color.')
         figcaption Fuente: Marca registrada COATS (s.f.).
 
-    .cajon.color-acento-contenido.p-4.mb-4(data-aos='fade-right')
-      h5 Para profundizar…
-      p Si quiere saber más sobre la titulación de hilos y su uso consulte del material complementario Especificaciones técnicas hilos COATS.
-      p Además, puede consultar el sitio web de COATS, una empresa de talla mundial en la fabricación de hilos industriales.
+   
 
     separador
     #t_2_3.titulo-segundo.mb-5(data-aos="zoom-in-left")
@@ -597,7 +594,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1.text-white Tejeduría. Tejido de Punto y de calada
-              p Para comprender mejor el proceso de los ligamentos básicos del telar observe el video sobre tejeduría, en los que se observa “el tejido de punto en máquina circular y tricotosa y el tejido a la plana o calada” (Canal Planeta Moda, 2018, 8:03 m)
+              p Para ampliar la comprensión de los ligamentos básicos del tejido en telar, consulte el video Tejeduría, en el que se explican el tejido de punto en máquina circular y tricotosa, así como el tejido a la plana o calada (Canal Planeta Moda, 2018, 8 min 3 s). 
             .col-sm-auto
               a.boton.color-acento-botones(href="https://youtu.be/JtKDv_xH9VI" target="_blank")
                 span Abrir video
@@ -770,27 +767,27 @@
                 th.bg6.text-white Prendas
             tbody
               tr
-                td Entre 40 y 100 g/m<sup>2</sup>
+                td Entre 40 y 100 gr/m<sup>2</sup>
                 td Ultralán, bonlam o tejido quirúrgico.
                 td Cofias, batas, overoles, escafandras, polainas, bolsas.
 
               tr
-                td Entre 135 y 180 g/m<sup>2</sup>
+                td Entre 135 y 180 gr/m<sup>2</sup>
                 td Algodón o polialgodón.
                 td Camisetas, pijamas.
 
               tr
-                td Entre 180 y 220 g/m<sup>2</sup>
+                td Entre 180 y 220 gr/m<sup>2</sup>
                 td Telas piqué Lacoste.
                 td Camisetas tipo polo.
 
               tr
-                td Entre 110 y 225 g/m<sup>2</sup>
+                td Entre 110 y 225 gr/m<sup>2</sup>
                 td Telas antifluido.
                 td Chalecos, chaquetas, pantalón de sudaderas, pantalonetas.
 
               tr
-                td Entre 130 y 150 g/m<sup>2</sup>
+                td Entre 130 y 150 gr/m<sup>2</sup>
                 td Telas livianas en seda, poliéster.
                 td Blusas, camisas.
 
@@ -800,7 +797,7 @@
                 td Jeans, overoles, chalecos, chaquetas, faldas, short.
 
               tr
-                td Entre 280 y 340 g/m<sup>2</sup>
+                td Entre 280 y 340 gr/m<sup>2</sup>
                 td Telas dril, gabardinas.
                 td Prendas de trabajo como camisas, pantalones y overoles.
 

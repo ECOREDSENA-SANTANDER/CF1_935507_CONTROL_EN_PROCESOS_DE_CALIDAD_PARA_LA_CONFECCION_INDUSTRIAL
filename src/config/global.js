@@ -82,7 +82,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Maquinaria de confección industrial',
+        titulo: 'Puesta a punto y manejo básico de maquinaria de confección',
         desarrolloContenidos: true,
         subMenu: [
           {
