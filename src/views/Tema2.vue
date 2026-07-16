@@ -641,9 +641,7 @@
       .col-lg-3.d-flex.mb-5
         img.w-100.h-100.d-none.d-lg-block(src='@/assets/curso/Tema2/img05.png', alt='', style='object-fit: cover; border-radius: 16px;')
 
-    .cajon.color-acento-contenido.p-4
-      .h5 Para profundizar…
-      p Consulte en el manual control de calidad en productos textiles y afines, para conocer más sobre los tipos de tejido y telas en la sección de material complementario.
+   
 
 
     separador
