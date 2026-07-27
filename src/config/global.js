@@ -425,14 +425,33 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Rafael Nelftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
           nombre: 'Sandra Cecilia Gutiérrez',
           cargo: 'Experta temática',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Regional Distrito Capital',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro de Gestión Empresarial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Oscar Andrés Fernández Urrego',
+          cargo: 'Evaluador instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - CENIGRAF - Regional Bogotá',
+        },
+        {
+          nombre: 'Julieth Paola Vital López',
+          cargo: 'Corrección de estilo',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
       ],
     },
@@ -460,14 +479,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Centro de Comercios y Servicios - Regional Tolima',
         },
       ],
     },

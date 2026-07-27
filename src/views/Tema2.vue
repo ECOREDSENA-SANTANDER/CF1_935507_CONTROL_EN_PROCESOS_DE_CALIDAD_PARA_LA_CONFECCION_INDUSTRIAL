@@ -26,7 +26,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/Tema2/1.png', alt='Texto que describa la imagen')          
+              img(src='@/assets/curso/Tema2/1.png', alt='')          
         h2.text-center Propiedades geométricas
         p Longitud, finura, rizado, forma de sección transversal.
       
@@ -34,7 +34,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/Tema2/2.png', alt='Texto que describa la imagen')          
+              img(src='@/assets/curso/Tema2/2.png', alt='')          
         h2.text-center Propiedades físicas
         p Brillo y color, propiedades térmicas, eléctricas, mecánicas y de absorción.
       
@@ -42,7 +42,7 @@
         .row.justify-content-center.mb-4
           .col-6.col-md-3.col-lg-6
             figure
-              img(src='@/assets/curso/Tema2/3.png', alt='Texto que describa la imagen')          
+              img(src='@/assets/curso/Tema2/3.png', alt='')          
         h2.text-center Propiedades químicas
         p Resistencia del textil a químicos como ácidos, acción ante la luz solar, el agua, el calor (asbesto), microorganismos e insectos.
 
@@ -309,7 +309,7 @@
         .row.justify-content-center.mb-4
           .col-4.col-md-5.col-lg-3
             figure
-              img(src='@/assets/curso/Tema2/1.svg', alt='Texto que describa la imagen')          
+              img(src='@/assets/curso/Tema2/1.svg', alt='')          
         h3.text-center Sistema directo
         ul.lista-ul
           li.d-flex
@@ -332,7 +332,7 @@
         .row.justify-content-center.mb-4
           .col-4.col-md-5.col-lg-3
             figure
-              img(src='@/assets/curso/Tema2/2.svg', alt='Texto que describa la imagen')          
+              img(src='@/assets/curso/Tema2/2.svg', alt='')          
         h3.text-center Sistema inverso
         ul.lista-ul
           li.d-flex
